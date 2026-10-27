@@ -1,10 +1,10 @@
-# SIKS AI Day 2026 — Public Website
+# SIKS ICT Expo 2026 — Public Website
 
-A self-contained bilingual (Korean / English) static website for the SIKS AI Day 2026 House competition. No login, database, registration, or API keys are required.
+A self-contained bilingual (Korean / English) static website for the SIKS ICT Expo 2026 House competition. No login, database, registration, or API keys are required.
 
 ## Pages and features
 - KO / EN translation switch for the entire page
-- Schedule: 08:30–11:30 on 3 November 2026
+- Schedule: 12:30–15:30 on Wednesday, 4 November 2026 (tidy-up 15:30–15:50)
 - House totals only (no individual student names)
 - Cup Snatching, Hamster Maze Escape, and 3-on-3 Hamster Soccer rules
 - House AI Video Challenge (up to five minutes per House)
